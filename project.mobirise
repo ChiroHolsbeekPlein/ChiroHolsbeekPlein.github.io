@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Chiro Holsbeek-Plein",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 60,
+    "uniqCompNum": 59,
     "versionPublish": "4.8.2",
     "theme": {
       "name": "mobirise4",
@@ -558,7 +558,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Het lidgeld bedraagt €35. Wanneer uw kind is ingeschreven en het lidgeld betaald is, is uw kind verzekerd voor eventuele ongevallen. Daarnaast krijgt iedereen elke zondag een gratis drankje aangeboden.\n&nbsp;<span style=\"font-size: 1rem;\">Het inschrijvingsgeld wordt gestort op de rekening van de Chiro (<b>BE95734022431358</b>) met als vermelding: &nbsp;</span><span style=\"font-size: 1rem;\">lidgeld 2018 - 2019 + de na(a)m(en) van uw kind(eren).</span></p><p>Wij zien iedereen graag elke zondag ravotten in ons eigen uniform. Daarom kunnen er ook chiro-T-shirts besteld worden bij ons. Deze kosten €10. Stort dit ook op ons rekeningnummer met mededeling: T-shirt + maat. Kom er zeker één op voorhand passen op de chiro.&nbsp;</p><p></p><div><br></div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#149dcc\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Het lidgeld bedraagt €35. Wanneer uw kind is ingeschreven en het lidgeld betaald is, is uw kind verzekerd voor eventuele ongevallen. Daarnaast krijgt iedereen elke zondag een gratis drankje aangeboden.\n&nbsp;<span style=\"font-size: 1rem;\">Het inschrijvingsgeld wordt gestort op de rekening van de Chiro (<b>BE95734022431358</b>) met als vermelding: &nbsp;</span><span style=\"font-size: 1rem;\">lidgeld 2018 - 2019 + de na(a)m(en) van uw kind(eren). Schrijft u uw kind in voor de eerste keer? Stuur dan een mail naar Lore (lore.crabbe3011@gmail.com) om uw contactgegevens door te gegeven.</span></p><p>Wij zien iedereen graag elke zondag ravotten in ons eigen uniform. Daarom kunnen er ook chiro-T-shirts besteld worden bij ons. Deze kosten €10. Stort dit ook op ons rekeningnummer met mededeling: T-shirt + maat. Kom er zeker één op voorhand passen op de chiro.&nbsp;</p><p></p><div><br></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIwOz94wqg",
           "_anchor": "content1-14",
           "_protectedParams": [],
@@ -2170,6 +2170,7 @@
           "_name": "slider2",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Breedte\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"60\" inline>\n        <input type=\"range\" title=\"Hoogte\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"400\" inline>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#efefef\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
           "_cid": "r5g4xFMGAH",
+          "_anchor": "slider2-1n",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -2320,8 +2321,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               }
             ]
-          },
-          "_anchor": "slider2-1n"
+          }
         },
         {
           "_styles": {
