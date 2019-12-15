@@ -1151,17 +1151,20 @@ section.lazy-placeholder:after {
 .cid-qIwOz94wqg .mbr-text SPAN {
   color: #ffffff;
 }
-.cid-r3UDU1PBbw {
+.cid-rKKCkRuuWG {
   padding-top: 90px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #efefef, #efefef);
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-r3UDU1PBbw .mbr-iconfont-social {
+.cid-rKKCkRuuWG .mbr-iconfont-social {
   font-size: 32px;
-  color: #149dcc;
+  color: #ef4848;
 }
-.cid-r3UDU1PBbw .social-list a:focus {
+.cid-rKKCkRuuWG .social-list a:focus {
   text-decoration: none;
+}
+.cid-rKKCkRuuWG H2 {
+  color: #2e2e2e;
 }
 .cid-r3W5YMFb5C {
   padding-top: 30px;
