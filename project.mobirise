@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Chiro Holsbeek-Plein",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 60,
     "versionPublish": "4.10.15",
@@ -9,7 +9,7 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#149dcc",
+        "primaryColor": "#d22020",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -31,7 +31,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#f9f9f9"
+        "#f9f9f9",
+        "#d22020"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -653,7 +654,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-secondary\" href=\"page1.html#features16-m\" data-app-placeholder=\"Type Text\">SLOEBERS</a>\n                    <a class=\"btn btn-secondary\" href=\"page1.html#features16-n\" data-app-placeholder=\"Type Text\">SPEELCLUB</a> <a class=\"btn btn-secondary\" href=\"page1.html#features16-1n\" data-app-placeholder=\"Type Text\">RAKWI</a> <a class=\"btn btn-secondary\" href=\"page1.html#features16-1o\" data-app-placeholder=\"Type Text\">TITO</a> <a class=\"btn btn-secondary\" href=\"page1.html#features16-1p\" data-app-placeholder=\"Type Text\">KASPI</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"page1.html#features16-m\" data-app-placeholder=\"Type Text\">SLOEBERS</a>\n                    <a class=\"btn btn-primary\" href=\"page1.html#features16-n\" data-app-placeholder=\"Type Text\">SPEELCLUB</a> <a class=\"btn btn-primary\" href=\"page1.html#features16-1n\" data-app-placeholder=\"Type Text\">RAKWI</a> <a class=\"btn btn-primary\" href=\"page1.html#features16-1o\" data-app-placeholder=\"Type Text\">TITO</a> <a class=\"btn btn-primary\" href=\"page1.html#features16-1p\" data-app-placeholder=\"Type Text\">KASPI</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIwQyWgBCJ",
           "_anchor": "content8-16",
           "_protectedParams": [],
