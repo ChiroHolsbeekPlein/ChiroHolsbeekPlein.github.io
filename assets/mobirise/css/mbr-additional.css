@@ -1101,6 +1101,24 @@ section.lazy-placeholder:after {
 .cid-qIwdPDKI76 {
   background-image: url("../../../assets/images/img-2610-2000x1333.jpeg");
 }
+.cid-sYOLrMh5pD {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ab9b6c;
+}
+@media (min-width: 992px) {
+  .cid-sYOLrMh5pD .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sYOLrMh5pD .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-sYOLrMh5pD .mbr-text {
+  color: #ffffff;
+}
 .cid-r3UGQTGVMR {
   padding-top: 60px;
   padding-bottom: 0px;
