@@ -3,7 +3,7 @@
     "name": "Chiro Holsbeek-Plein",
     "currentPage": "page3.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 61,
+    "uniqCompNum": 60,
     "versionPublish": "4.10.15",
     "theme": {
       "name": "mobirise4",
@@ -31,9 +31,7 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#f9f9f9",
-        "#ed3838",
-        "#cf4949"
+        "#f9f9f9"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -2070,7 +2068,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-danger\" href=\"https://calendar.google.com/calendar/u/0/r?cid=azJyZXJ0bnB0NjhxcHUzZ2dyZjN2dmFhZGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&fbclid=IwAR0VbVCchbA9yLROSzmvRQcTqbFOnY3Rj3QBJdZMFWH3ohcgFTVjUG_kgxM\" target=\"_blank\" data-app-placeholder=\"Type Text\">GOOGLE KALENDER<br></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-danger\" href=\"https://calendar.google.com/calendar/u/0?cid=ZmZjN2JmNmI0ZjAwNWNhNmUxZDA0NzgwZDMwYzhkODI1MmY3NmM3OTY0Nzk5M2M5NzE0ZWVlMDIxM2Y3ODM4ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\" target=\"_blank\" data-app-placeholder=\"Type Text\">GOOGLE KALENDER<br></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIzXMbiOcS",
           "_anchor": "content8-1m",
           "_protectedParams": [],
